@@ -18,4 +18,4 @@ See below the information system architecture:
 # Incident #1
 
 Following a negociation with a VIP client, the trader were trying to insert q deal in the **Trade application** and is getting the below error:  
-`Error on booking_id 157893, please cqll your support team`
+`Error on booking_id 157893, please call your support team`
