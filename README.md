@@ -1,2 +1,2 @@
-# academy
-hiring game
+# Academy
+Hiring game
