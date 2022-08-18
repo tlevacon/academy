@@ -3,7 +3,7 @@
 ![Trading Floor](../img/NYSE-trading-floor.jpg)
 ---
 
-You are working at Societe Generale and supporting Trading applications. The booking chqin is compose of different systems:
+You are working at Societe Generale and supporting Trading applications. The booking chain is compose of different systems:
 * **Pre Trade application:** This applicqtion is used from the negociate with the client until the booking of the deal. It is used by trader.
 * **Trade application:** Come after the booking, this is the downstream application that manage the lifecycle deal until the deal expire.It is used by trader's support assistant.
 * **Market Calendard application:** Referential application that feed Trade application with Market calandar. For example, if a Trader has booked a deal on SP500 US Market, Market Calendard application is going to feed Trade application with SP500 calandar and can prevent a booking booked on bank holiday. Referential team are accountable of this system have to create or update all markets calandars.
