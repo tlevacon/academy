@@ -1,5 +1,8 @@
 # Scenario booking issue
 
+![Trading Floor](../img/NYSE-trading-floor.jpg)
+---
+
 You are working Societe Generale and supporting Trading applications. The booking chqin is compose of different systems:
 * **Pre Trade application:** This applicqtion is used from the negociate with the client until the booking of the deal. It is used by trader.
 * **Trade application:** Come after the booking, this is the downstream application that manage the lifecycle deal until the deal expire.It is used by trader's support assistant.
