@@ -18,7 +18,7 @@ The SQL syntax for interacting with the sqlite database is described [here on th
 It is fairly straightforward, just remember to finish your queries with two semi-colons to execute a query on the database `;;`  
 
 ```sql
-select * from MANUFACTURER;;
+sqlite> select * from MANUFACTURER;;
 ```
 
 To execute an `sqlite` command from the sqlite command line, no need for `;;`. See below an example to execute a script using the `.read` command
@@ -44,6 +44,6 @@ FRAME                  MODEL
 
 For the purpose of the scenarios the reader can think of `complectations` as variations of the same frame.
 
-## Scenario
+## Scenarios
 
 Candidate will face various scenarios involving the use and modification of an sqlite database using the command line.  
