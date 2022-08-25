@@ -13,7 +13,8 @@ On Windows, one can open the toyota database using this query
 ```
 On Linux and OS X, it should look like this
 ```sh
-./"Sqllite Tools\Linux\sqlite3" toyota.db
+.Sqllite\ Tools/Linux/sqlite3 toyota.db
+.Sqllite\ Tools/OS\ X/sqlite3 toyota.db
 ```
 
 ## Sqlite documentation
