@@ -56,13 +56,10 @@ Good luck with this second incident, please find below the link to access your i
 
 The problem is now solved and the Sales is very happy about your work as he managed to conclude this very important deal. However he is worried that other users or processes might have been impacted by this issue. He asks for proper Post Mortem to be written and communicated to upper Management, containing:
 
- 
-
 * The full business impacts (quantity of deals impacted, $...etc)
 * The root cause
 * The action plan you would implement in order to secure the production
 
- 
 
 You will find in the repository an example of [Post Mortem ](Post%20Mortem%20Template/PM1.PNG). For the communication to Management and Business, this you will obviously have to summarize the incident in the body of the email as they are usually too busy to open and read the full document
 
