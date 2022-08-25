@@ -1,3 +1,7 @@
+# Database and Sql
+
+![DB Server room](img/db_banner.png)
+
 # Sqlite
 
 We've created an Sqlite database that will serve as the basis for DB/SQL exercises.  
@@ -43,6 +47,9 @@ FRAME                  MODEL
 ```
 
 For the purpose of the scenarios the reader can think of `complectations` as variations of the same frame.
+
+We've also created a `toyota_no_parts` database that removes the biggest tables of the `toyota` DB.  
+It contains the exhaustive set of models and complectations.  
 
 ## Scenarios
 
