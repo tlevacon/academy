@@ -74,7 +74,7 @@ The problem is now solved and the Sales is very happy about your work as he mana
 
  
 
-You will find in the repository an example of Post Mortem. For the communication to Management and Business, this you will obviously have to summarize the incident in the body of the email as they are usually too busy to open and read the full document
+You will find in the repository an example of [Post Mortem ](../PROBLEM%20SOLVING/Post%20Mortem%Template/PM.docx). For the communication to Management and Business, this you will obviously have to summarize the incident in the body of the email as they are usually too busy to open and read the full document
 
  
 
