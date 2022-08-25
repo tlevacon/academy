@@ -41,8 +41,8 @@ It is 3PM. The Sales, in the SG/EQD New York Team, has negotiated a major deal w
 
 The Sales insists for this issue to be resolved as soon as possible because the price for this new Security is moving very fast on its first day. And the deadline to book the deal is 4PM, after which the Exchange will be closed. You start your investigation right away.
 
- Good luck with this first incident, please find below the link to access your information system and fix the issue:
- [INCIDENT 1](../PROBLEM SOLVING/Booking Application System/1 Incident)
+ Good luck with this first incident, please find below the link to access your information system and fix the issue:  
+ [INCIDENT 1](../PROBLEM%20SOLVING/Booking%20Application%20System/1%20Incident)
  
 # Incident #2
 
