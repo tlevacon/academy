@@ -10,7 +10,6 @@ Date,Hours,State,Status,Message
 20220823,11:50:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,11:51:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,11:52:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
-20220823,11:52:00,[INFO],Get,/calendars/NEW-YORK 200 OK from  Booking app (session id d6afe1c9-ed87-4cff-b9b3-e9b8b299ac7b)
 20220823,11:53:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,11:54:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,11:55:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
@@ -19,7 +18,9 @@ Date,Hours,State,Status,Message
 20220823,11:58:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,11:59:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,12:00:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
-20220823,12:00:00,[INFO],Inserted,Successfully created [Market=BOMBAY] [Country=IND] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False]
+20220823,12:00:00,[INFO],Get,Get /calendarUpdates?from=2022-08-23T11:52:00Z 200 OK [WebApi.HttpsReferential]:4402
+20220823,12:00:00,[INFO],Inserted,Successfully created [Market=BOMBAY] [Country=IND] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False] in local cache
+20220823,12:00:00,[INFO],Inserted,Successfully created [Market=BANGKOK] [Country=THA] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False] in local cache
 20220823,12:01:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,12:02:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,12:03:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
@@ -37,7 +38,7 @@ Date,Hours,State,Status,Message
 20220823,12:15:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:16:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:17:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
-20220823,12:17:00,[ERROR],InsertionFailed,Ins [CityName=IND1NBGB] [Country=USA ] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False] Can't connect to APIRef
+20220823,12:17:00,[ERROR],Get,Get /calendarUpdates?from=2022-08-23T11:52:00Z 500 InternalServerError [WebApi.HttpsReferential]:4402
 20220823,12:18:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:19:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:20:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
@@ -58,7 +59,7 @@ Date,Hours,State,Status,Message
 20220823,12:35:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:36:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:37:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
-20220823,12:38:00,[ERROR],Get,/calendars/BOSTON 500 InternalServerError from  Booking app (session id 57f41540-9a94-47cc-ae73-a8371e70e07f)
+20220823,12:38:00,[ERROR],Get,"[BOSTON] does not exist in local cache, Get /calendars/BOSTON 500 InternalServerError"
 20220823,12:39:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:40:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,12:41:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
@@ -137,7 +138,8 @@ Date,Hours,State,Status,Message
 20220823,13:54:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,13:55:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,13:56:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
-20220823,13:57:00,[INFO],Get,/calendars/BOSTON 200 OK from  Booking app (session id 57f41540-9a94-47cc-ae73-a8371e70e07f)
+20220823,13:57:00,[INFO],Get,/calendars/BOSTON 200 OK
+20220823,13:57:00,[INFO],Inserted,Successfully created [Market=BOSTON] [Country=USA] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False] in local cache
 20220823,13:58:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,13:59:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,14:00:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
@@ -197,6 +199,7 @@ Date,Hours,State,Status,Message
 20220823,14:54:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,14:55:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,14:56:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
+20220823,14:56:00,[ERROR],Get,"[IND1NBGB] does not exist in local cache, Get /calendars/IND1NBGB 404 NotFound"
 20220823,14:57:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,14:58:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402
 20220823,14:59:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4402

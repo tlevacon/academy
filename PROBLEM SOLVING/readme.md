@@ -35,34 +35,24 @@ See below the information system architecture:
 
 # Incident #1
 
-It is 3PM. The Sales, in the SG/EQD New York Team, has negotiated a major deal with a VIP client, VINCI, to buy a Security newly issued on the Market at the beginning of the day. This is a brand new product offered at SG from a new Exchange, and a new Team of Traders has been set up to cover the risk on these products. As the Sales is trying to insert a deal in the Pre-Trade application and is getting the below error:
-  
-`Error on booking_id 157893, please call your support team`
+It is 3PM. The Sales, in the SG/EQD New York Team, has negotiated a major deal with a VIP client, VINCI, to buy a Security newly issued on the Market at the beginning of the day. This is a brand new product offered at SG from a new Exchange, and a new Team of Traders has been set up to cover the risk on these products. As the Sales is trying to insert a deal in the Pre-Trade application and is getting the below error:  
+
+> Failure from ids 5301 to 12896, please contact your support team
 
 The Sales insists for this issue to be resolved as soon as possible because the price for this new Security is moving very fast on its first day. And the deadline to book the deal is 4PM, after which the Exchange will be closed. You start your investigation right away.
 
- Good luck with this first incident, please find below the link to access your information system and fix the issue:  
- [INCIDENT 1](Booking%20Application%20System/1%20Incident)
+Good luck with this first incident, please find below the link to access your information system and fix the issue:  
+[INCIDENT 1](Booking%20Application%20System/INC1)
  
 # Incident #2
 
-Now that you have fixed the issue, the trader comes back to you saying he is still unable to book his deal as he is getting again the same error message. 
+Now that you have fixed the issue, the trader comes back to you saying he is still unable to book his deal as he is getting again the same error message.  
 
 Good luck with this second incident, please find below the link to access your information system and fix the issue:
-
-
-# Incident #3
-
-Now that you have fixed the issue, the trader comes back to you saying he is still unable to book his deal as he is getting again the same error message. 
-
-Good luck with this third incident, please find below the link to access your information system and fix the issue:
-
-
+[INCIDENT 2](Booking%20Application%20System/INC2)
 
 
 # POST MORTEM EXERCISE
-
-
 
 The problem is now solved and the Sales is very happy about your work as he managed to conclude this very important deal. However he is worried that other users or processes might have been impacted by this issue. He asks for proper Post Mortem to be written and communicated to upper Management, containing:
 

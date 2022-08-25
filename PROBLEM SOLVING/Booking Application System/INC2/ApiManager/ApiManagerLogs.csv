@@ -14,7 +14,6 @@ Date,Hours,State,APIConnectionStatus,Message
 20220823,11:54:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:55:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:56:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
-20220823,11:57:00,[INFO],InsertionSuccess,Ins [PtfName=FSHT.IABZ  Country=USD id_centre=5E]
 20220823,11:58:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:59:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,12:00:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
@@ -77,7 +76,6 @@ Date,Hours,State,APIConnectionStatus,Message
 20220823,12:57:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
 20220823,12:58:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
 20220823,12:59:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
-20220823,12:59:00,[ERROR],InsertionFailed,Ins [PtfName=ABZ1-ILID4 Country=USD id_centre=ABZ3] Can't connect to APIRef
 20220823,13:00:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
 20220823,13:01:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
 20220823,13:02:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4401
