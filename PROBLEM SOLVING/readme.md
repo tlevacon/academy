@@ -12,7 +12,7 @@ You are working as support analyst at Societe Generale, supporting booking appli
 
 See below the information system architecture:
 
-![Architecture](../img/Alten.drawio.png)
+![Architecture](../img/Alten2.drawio.png)
 ---
 
 # Incident #1
