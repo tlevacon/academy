@@ -67,7 +67,7 @@ Date,Hours,State,APIConnectionStatus,Message
 20220823,12:47:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403
 20220823,12:48:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403
 20220823,12:49:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403
-20220823,12:49:00,[ERROR],InsertionFailed,Ins  [Symbol=AAPL CompagnyName=Apple Inc ContractName= SP500] Can't connect to APIRef
+20220823,12:49:00,[ERROR],InsertionFailed,Ins  [Symbol=AAPL Name=Apple County= United States] Can't connect to APIRef
 20220823,12:50:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403
 20220823,12:51:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403
 20220823,12:52:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4403

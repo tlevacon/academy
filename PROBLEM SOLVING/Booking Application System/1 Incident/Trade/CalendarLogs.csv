@@ -111,7 +111,6 @@ Date,Hours,State,Status,Message
 20220823,13:28:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,13:29:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,13:30:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
-20220823,12:17:00,[ERROR],InsertionFailed,Ins [CityName=MELBOURN] [Country=AUS] [Mo=True Tu=True We=True Th=True Fr=True Sa=False Su=False]Can't connect APIRef
 20220823,13:31:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,13:32:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402
 20220823,13:33:00,[ERROR],DOWN,Get /health/ 404 NotFound [WebApi.HttpsReferential]:4402

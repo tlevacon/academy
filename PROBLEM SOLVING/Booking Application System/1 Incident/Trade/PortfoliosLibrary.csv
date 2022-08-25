@@ -1,0 +1,500 @@
+PtfName,Country,id_centre
+FTSE-BFR    ,GBP,5B      
+ABZMBC-S      ,EUR,F3      
+EOABZ-S       ,EUR,F3      
+EGYC-S       ,EUR,F3      
+IFX-S       ,EUR,F3      
+DFX-F3-S    ,EUR,F3      
+Y317_TW.US  ,USD,5E      
+RF-FLCES    ,AUD,GU      
+FLCES-RF    ,AUD,GU      
+RGY-LSE-FR1  ,EUR,RP      
+RGY-LSE-IT1  ,EUR,RP      
+RGY-LSE-SGY1  ,EUR,RP      
+RGY-LSE-DM1  ,EUR,RP      
+KLCI        ,MYR,5E      
+DGY-LSE-UK1  ,GBP,DP      
+FSHT.IABZ     ,USD,5E      
+GY-ISH       ,EUR,F3      
+HK_SHORT    ,HKD,HS      
+SGYIEL_5E_USD,USD,5E      
+SGYIEL1      ,EUR,F3      
+SGYILEY      ,EUR,F3      
+SGYIELY      ,EUR,F3      
+SGYIEL3      ,EUR,F3      
+CHU         ,USD,5E      
+DGY-FRB-FR1  ,EUR,DP      
+SGYIEL_5E_THB,THB,5E      
+GYFABZ_GBGY_FVFY,EUR,DC      
+GY-DGYW       ,EUR,F3      
+DGYW-SGFFM   ,EUR,F3      
+FRB_MGY_MIL  ,EUR,MP      
+DF_FLUX     ,EUR,DF      
+ABZ1-ILID1    ,USD,ABZ3      
+ABZ1-ILIDY    ,USD,ABZ3      
+ABZ1-ILID3    ,USD,ABZ3      
+ABZ1-ILID5    ,USD,ABZ3      
+ABZ1-ILID6    ,USD,ABZ3      
+ABZ1-ILID7    ,USD,ABZ3      
+ABZ1-ILID8    ,USD,ABZ3      
+ABZ1-ILID9    ,USD,ABZ3      
+ABZ1-ILID10   ,USD,ABZ3      
+ABZ1-ILID11   ,USD,ABZ3      
+ABZ1-ILID1Y   ,USD,ABZ3      
+ABZ1-ILID13   ,USD,ABZ3      
+ABZ1-ILID14   ,USD,ABZ3      
+ABZ1-ILID15   ,USD,ABZ3      
+ABZ1-ILID16   ,USD,ABZ3      
+ABZ1-ILID17   ,USD,ABZ3      
+ABZ3-ILID17   ,USD,ABZ3      
+OGYT_MGY_MIL  ,EUR,MP      
+FUT_MGY_MIL  ,EUR,MP      
+8CGYEF-SOGTRI,EUR,8C      
+DS-FRFABZCE   ,EUR,DS      
+DS-UK       ,EUR,DS      
+FTSE-CLGY    ,GBP,5B      
+SGYIEL_5E_HKD,HKD,5E      
+FX-5B       ,EUR,5B      
+FX-5E       ,EUR,5E      
+FX-5E-ABZCOABZV ,EUR,5E      
+FX-6F       ,EUR,6A      
+FX-GU       ,EUR,GU      
+FX-HJ       ,EUR,HJ      
+FX-HS       ,EUR,HS      
+FX-RGY       ,EUR,RP      
+FX-SABZ       ,EUR,SABZ      
+FX-TE       ,EUR,TE      
+FX-TS       ,EUR,TS      
+FX-TW       ,EUR,TW      
+FX-TW-ABZCOABZV ,EUR,TW      
+FX-FM       ,EUR,AM      
+FX-GW       ,EUR,GW      
+TX1-GW-EUR  ,EUR,GW      
+TXY-GW-EUR  ,EUR,GW      
+ABZ3-WC-CFSTIL,USD,ABZ3      
+ABZ3-WC-DLR   ,USD,ABZ3      
+GEABZERIC_1E  ,EUR,1E      
+GEABZERIC_5V  ,EUR,5V      
+GEABZERIC_5X  ,EUR,5X      
+GEABZERIC_5Z  ,EUR,5Z      
+GEABZERIC_6F  ,EUR,6A      
+GEABZERIC_6C  ,EUR,6C      
+GEABZERIC_6T  ,JPY,6T      
+GEABZERIC_8L  ,EUR,8L      
+GEABZERIC_8GY  ,EUR,8P      
+GEABZERIC_8X  ,EUR,8X      
+GEABZERIC_FC  ,EUR,AC      
+GEABZERIC_FD  ,EUR,AD      
+GEABZERIC_FM  ,EUR,AM      
+GEABZERIC_FO  ,EUR,AO      
+GEABZERIC_FT  ,EUR,AT      
+GEABZERIC_FW  ,EUR,AW      
+GEABZERIC_BR  ,BRABZ,BR      
+GEABZERIC_CF  ,EUR,CA      
+GEABZERIC_CF  ,EUR,CF      
+GEABZERIC_CX  ,EUR,CX      
+GEABZERIC_CY  ,EUR,CY      
+GEABZERIC_DS  ,EUR,DS      
+GEABZERIC_EF  ,EUR,EA      
+GEABZERIC_FY  ,EUR,F2      
+GEABZERIC_F5  ,EUR,F5      
+GEABZERIC_FE  ,EUR,FE      
+GEABZERIC_FU  ,USD,FU      
+GEABZERIC_GABZ  ,EUR,GABZ      
+GEABZERIC_GQ  ,EUR,GQ      
+GEABZERIC_GU  ,EUR,GU      
+GEABZERIC_GV  ,EUR,GV      
+GEABZERIC_GZ  ,EUR,GZ      
+GEABZERIC_HH  ,EUR,HH      
+GEABZERIC_IGY  ,EUR,IP      
+GEABZERIC_LF  ,EUR,LA      
+GEABZERIC_MGY  ,EUR,MP      
+GEABZERIC_SF  ,EUR,SA      
+GEABZERIC_SF  ,EUR,SF      
+GEABZERIC_SJ  ,EUR,SJ      
+GEABZERIC_SGY  ,EUR,SP      
+GEABZERIC_SS  ,EUR,SS      
+GEABZERIC_SV  ,EUR,SV      
+GEABZERIC_TF  ,EUR,TF      
+GEABZERIC_TS  ,EUR,TS      
+GEABZERIC_V1  ,EUR,V1      
+GEABZERIC_ZF  ,CHF,ZF      
+ITC.IABZ      ,USD,5E      
+ITC.IABZY     ,USD,5E      
+COM_5E      ,EUR,5E      
+COM_GG      ,EUR,GG      
+R_5E_EUR    ,EUR,5E      
+RISK-F9     ,AUD,GU      
+5E_RISK_HG  ,USD,5E      
+R_5E_STK    ,HKD,5E      
+R_SIABZG_5E   ,SGD,5E      
+80-ABZEW      ,EUR,8O      
+RI_5E_STK   ,USD,5E      
+R_5E_THB    ,USD,5E      
+RF_5E_MYR   ,MYR,5E      
+RGY-SF-GBGY   ,GBP,SF      
+8O-SGTRIHGYY ,EUR,8O      
+ABZEST.IABZ     ,USD,5E      
+HROH.IABZ     ,USD,5E      
+CIGYL.IABZ     ,USD,5E      
+RGY_FVF_USD  ,USD,RP      
+8O-SGTRIUM  ,EUR,8O      
+8O-SGTRIHGY3 ,EUR,8O      
+8O-GYROGRESSI,EUR,8O      
+8OFCGY-HIGH  ,EUR,8O      
+8OFCGY-VFLO1 ,EUR,8O      
+8OFCGY-FLTI07,EUR,8O      
+8O-FCGY-FVIGY ,EUR,8O      
+8O-VICTOIY65,EUR,8O      
+FRC_BGYF_ABZ   ,USD,ABZ3      
+8O-SGTRIHGY4 ,EUR,8O      
+8O-VIRTUOSE ,EUR,8O      
+8O-OGYTIMIZ8 ,EUR,8O      
+8OFCGY-GROUGY ,EUR,8O      
+5B-HEDGE    ,GBP,5B      
+GABZ.TSF.THB  ,THB,GABZ      
+GABZ.TSF.HKD  ,HKD,GABZ      
+8O-QUFDRI+  ,EUR,8O      
+ABZIFTY.IB    ,IABZR,IB      
+FX-RB       ,EUR,RB      
+8O-SGTRIHGY5 ,EUR,8O      
+CWO.FB-RB   ,AUD,RB      
+ABZFSL.FB-RB  ,SGD,RB      
+UOB.FB-RB   ,SGD,RB      
+TELE.FB-RB  ,SGD,RB      
+CWO.FR-FRB  ,AUD,RB      
+ABZFSL.FR-FRB ,SGD,RB      
+MU-SC_TIGER ,EUR,5E      
+CORREL.TW   ,TWD,TW      
+TRFCKER_FUABZD,HKD,AK      
+DS-FR       ,EUR,DS      
+DS-GB       ,EUR,DS      
+TSF-5E      ,EUR,TV      
+8O-CIICGYERF4,EUR,8O      
+EFY-ISSUE   ,EUR,EF2     
+EURO-DY     ,EUR,DY      
+DOLLFRS-DY  ,USD,DY      
+FX-HW       ,EUR,HW      
+GBGY_DY      ,GBP,DY      
+CHF-DY      ,CHF,DY      
+FX-IB       ,EUR,IB      
+FX-YX-Y1    ,EUR,YX      
+FX-YX-YY    ,EUR,YX      
+FX-YX-Y3    ,EUR,YX      
+FX-YX-Y4    ,EUR,YX      
+FX-YX-Y5    ,EUR,YX      
+FX-YX-Y6    ,EUR,YX      
+FX-YX-Y7    ,EUR,YX      
+FX-YX-Y8    ,EUR,YX      
+8O-CRICFGYREV,EUR,8O      
+COM_USD_5B  ,USD,5B      
+COM_USD_FK  ,USD,AK      
+COM_GBGY_GJ  ,GBP,GJ      
+COM_SGD_GJ  ,SGD,GJ      
+COM_USD_GJ  ,USD,GJ      
+COM_EUR_GW  ,EUR,GW      
+COM_USD_GW  ,USD,GW      
+COM_USD_HJ  ,USD,HJ      
+COM_USD_HS  ,USD,HS      
+COM_USD_RB  ,USD,RB      
+COM_SGD_SABZ  ,SGD,SABZ      
+COM_USD_SABZ  ,USD,SABZ      
+COM_SEK_TS  ,SEK,TS      
+COM_EUR_TW  ,EUR,TW      
+COM_USD_TW  ,USD,TW      
+COM_SGD_RB  ,SGD,RB      
+COM_USD_HW  ,USD,HW      
+COM_USD_IB  ,USD,IB      
+8O-SGTRIHGY6 ,EUR,8O      
+8O-IABZGDIRECT,EUR,8O      
+COM_USD_5E  ,USD,5E      
+FX-4B       ,EUR,4B      
+FX-SQ       ,EUR,SQ      
+DFX-ELEC    ,EUR,4B      
+4B-RFTES    ,EUR,4B      
+RETRO_6K    ,HKD,RK      
+RK-RETRO-6K ,HKD,RK      
+RK-RETRO-FK ,HKD,RK      
+RK-RETRO-HF ,HKD,RK      
+RK-RETRO-HG ,HKD,RK      
+RK-RETRO-HS ,HKD,RK      
+RK-RETRO-JF ,HKD,RK      
+RK-RETRO-RB ,HKD,RK      
+FX-DY       ,EUR,DY      
+FX-CD       ,EUR,CD      
+FX-GLOBFL-CD,EUR,CD      
+8O-SGTOGYHGY1 ,EUR,8O      
+FX-TZ       ,EUR,TZ      
+TRFDIABZG-SQ  ,EUR,SQ      
+RETRO-HF    ,USD,RK      
+RETRO-HG    ,USD,RK      
+RETRO-HS    ,USD,RK      
+RETRO-JF    ,USD,RK      
+RETRO-RB    ,USD,RK      
+RETRO-WH    ,USD,RK      
+RETRO-HW    ,USD,RK      
+RETRO-IB    ,USD,RK      
+RETRO-IV    ,USD,RK      
+RETRO-GT    ,USD,RK      
+RETRO-SABZ    ,USD,RK      
+RETRO-MV    ,USD,RK      
+RETRO-GG    ,USD,RK      
+8OFCGY-OGYTIMU,EUR,8O      
+COM_SGD_FK  ,SGD,AK      
+COM_SGD_HS  ,SGD,HS      
+COM_EUR_5E  ,EUR,5E      
+4B-CHF      ,CHF,4B      
+COM_EUR_4B  ,EUR,4B      
+COM_SGD_HW  ,SGD,HW      
+FX-IF       ,EUR,IF      
+8O-SGTOGYHGYY ,EUR,8O      
+FTXIABZY5.FK  ,HKD,AK      
+TRFDIABZG-SQF ,EUR,SQ      
+TOLTECF     ,USD,GL      
+COM_EUR_SQ  ,EUR,SQ      
+8O-ZELISY010,EUR,8O      
+IF_TURQUOISE,USD,IF      
+RISK-1E     ,DEM,1E      
+CESSIOABZS_5F ,FRF,5A      
+CESSIOABZ_5F  ,FRF,5A      
+CESSIOABZ_5F_X,EUR,5A      
+CESS_5E_X   ,EUR,5E      
+RISK-5V     ,DEM,5V      
+RISK-5V_X   ,EUR,5V      
+R6C-CHECK   ,JPY,6C      
+CESSIOABZS_STK,FRF,6T      
+6V_CESSIOABZ_X,EUR,6V      
+6V_CESS_EXGY ,FRF,6V      
+6V_CESS_EX_X,EUR,6V      
+6V_SGST-SV  ,EUR,6V      
+6V_SGST_FR  ,FRF,6V      
+6V_SGST_FR_X,EUR,6V      
+6V_SGST_SX  ,FRF,6V      
+6V_SGST_SX_X,EUR,6V      
+CESSIOABZ_6V  ,FRF,6V      
+CESSIOABZ_6V_X,EUR,6V      
+8LHEDGE_X   ,EUR,8L      
+RISK_COOK   ,JPY,AB      
+RISK_COOKY  ,JPY,AB      
+RISK_LTCM   ,JPY,AB      
+RISK-MILFABZ_X,EUR,AO      
+RISK_ED     ,FRF,ED      
+RISK_ED_X   ,EUR,ED      
+RISK-EURO   ,XEU,FE      
+R_WHFRF_GYROGY,HKD,GG      
+CESSIOABZ_GJ  ,FRF,GJ      
+CESSIOABZ_GJ_X,EUR,GJ      
+RISK-GJ-HK  ,USD,GJ      
+RISK-GJ-IABZD ,USD,GJ      
+RISK-GJ-IABZDO,USD,GJ      
+RISK-GJ-KO  ,USD,GJ      
+RISK-GJ-MF  ,USD,GJ      
+RISK-GJ-ABZI  ,USD,GJ      
+RISK-GJ-OTH ,USD,GJ      
+RISK-GJ-USD ,USD,GJ      
+RGL-COLLFT. ,USD,GL      
+RGL-CGYQ     ,USD,GL      
+RGL-DII     ,USD,GL      
+CESSIOABZ_GW  ,FRF,GW      
+RISK-EUROTOGY,XEU,GW      
+RISK-EUROT_X,EUR,GW      
+RISK-GZ-CFC ,EUR,GZ      
+RISK-GZ-FTSE,GBP,GZ      
+RISK-GZ-JGYY ,JPY,GZ      
+RISK-GZ-SGY  ,USD,GZ      
+RHH-DII     ,USD,HH      
+RHH-GFABZ3    ,USD,HH      
+RHH-GYEABZFLOZF,USD,HH      
+RFD-CFSTEL  ,JPY,IA      
+RISK-IF     ,USD,IA      
+RISK-SF     ,GBP,SF      
+RFD-FRIES   ,EUR,TF      
+RFD-LFTOUR  ,FRF,TF      
+RFD-LYX-WIABZ ,XEU,TF      
+RFD-LYX-WI_X,EUR,TF      
+RFDGYLFSSF984,JPY,TF      
+RFDGYLFSSF987,JPY,TF      
+RISK-WIABZCOABZV,CHF,ZU      
+RISKFWDS-CHF,CHF,ZU      
+RISKZU-CHF  ,CHF,ZU      
+ZU-CB       ,CHF,ZU      
+RISK_HJ_KRW ,KRW,HJ      
+CES_HKD_HG  ,EUR,6T      
+CES_SGD_HG  ,EUR,6T      
+RISK-TEST   ,JPY,AB      
+RISK-CLI    ,ZAR,CA      
+CESSIOABZ_HJ  ,EUR,HJ      
+RISK_5E_FMEX,USD,5E      
+RGL-CEMEXY  ,USD,GL      
+RIS-GJ-SI1  ,USD,GJ      
+RISK-GJ-SI1 ,USD,GJ      
+RISK-GJ-SIY ,USD,GJ      
+RISK-GJ-EUR ,EUR,GJ      
+RISK_FBABZIK  ,JPY,AB      
+RISK_5E_SGD ,USD,5E      
+RISK_THB    ,THB,5E      
+CESS_STK_GF ,EUR,CH      
+CESS_STK_HF ,EUR,CH      
+CESS_RK     ,EUR,CH      
+CES-CROSBY  ,EUR,CH      
+EX_CES_HJ   ,EUR,HJ      
+EX_CES_5E   ,EUR,5E      
+RISK_5E_USD ,USD,5E      
+RISK_5E_JGYY ,JPY,5E      
+RISK_5E_EUR ,EUR,5E      
+6V_SOGELF_LF,EUR,6V      
+CESS_F1     ,EUR,TW      
+CESSIOABZ_F1  ,EUR,TK      
+CESSIOABZ_F3  ,EUR,TK      
+RISK-SM     ,GBP,SM      
+RISK_5E_CHF ,EUR,5E      
+R_TW_TWD    ,TWD,TW      
+DE-EUROSTOXX,EUR,F5      
+DE-EUROTOGY  ,EUR,F5      
+DE-STOXX    ,EUR,F5      
+DE-EUROSTFR ,EUR,F5      
+DE-SECTOR   ,EUR,F5      
+DE-CERTIF   ,EUR,F5      
+R-SGFGY-VIEW ,EUR,IP      
+CH_EXGY_FUS  ,EUR,CH      
+CH_EXGY_SGHK ,EUR,CH      
+TK_EXGY_FUS  ,EUR,TK      
+RISK_SABZ_SGD ,SGD,SABZ      
+RISK_KL_MYR ,MYR,KL      
+RISK_HS_HKD ,HKD,HS      
+CESS_M5_X   ,EUR,M5      
+RISK_GG_HKD ,HKD,GG      
+CESSIOABZ_TW  ,EUR,TW      
+CESSIOABZ_SABZ  ,EUR,SABZ      
+CESSIOABZ_KL  ,EUR,KL      
+CESS_FM     ,EUR,AM      
+RISK-BB_X   ,EUR,GW      
+CESSIOABZ_TS  ,EUR,TS      
+CESSIOABZ_TE  ,EUR,TE      
+CESS_STK_SABZ ,EUR,CH      
+CESS_STK_HS ,EUR,CH      
+CESS_EXO_MUL,EUR,TK      
+CESSIOABZ_GG  ,EUR,GG      
+CESS_CB     ,EUR,TK      
+CESSIOABZ_HS  ,EUR,HS      
+EXO_CESS_TW ,EUR,TW      
+EXO_CESS_KL ,EUR,KL      
+RISK-US-ILDI,USD,ABZ3      
+RISK-US-WFR ,USD,ABZ3      
+RISK-US-ILID,USD,ABZ3      
+RISK-IABZTER  ,GBP,5B      
+CH_EXGY_SGSGD,EUR,CH      
+RISK_KE_USD ,USD,KE      
+RISK_5E_HKD ,HKD,5E      
+HEDGE-F4    ,EUR,TK      
+RGEABZERIC_1E ,EUR,1E      
+RGEABZERIC_5F ,EUR,5A      
+RGEABZERIC_5B ,EUR,5B      
+RGEABZERIC_5E ,EUR,5E      
+RGEABZERIC_6T ,EUR,6T      
+RGEABZERIC_6V ,EUR,6V      
+RGEABZERIC_CF ,EUR,CA      
+RGEABZERIC_CR ,EUR,CR      
+RGEABZERIC_GU ,EUR,GU      
+RGEABZERIC_GV ,EUR,GV      
+RGEABZERIC_GW ,EUR,GW      
+RGEABZERIC_GZ ,EUR,GZ      
+RGEABZERIC_HH ,EUR,HH      
+RGEABZERIC_HJ ,EUR,HJ      
+RGEABZERIC_HS ,EUR,HS      
+RGEABZERIC_IF ,EUR,IA      
+RGEABZERIC_IGY ,EUR,IP      
+RGEABZERIC_KE ,EUR,KE      
+RGEABZERIC_KL ,EUR,KL      
+RGEABZERIC_MGY ,EUR,MP      
+RGEABZERIC_ABZ3 ,EUR,ABZ3      
+RGEABZERIC_RK ,EUR,RK      
+RGEABZERIC_SF ,EUR,SA      
+RGEABZERIC_SF ,EUR,SF      
+RGEABZERIC_TE ,EUR,TE      
+RGEABZERIC_TF ,EUR,TF      
+RGEABZERIC_TK ,EUR,TK      
+RGEABZERIC_TS ,EUR,TS      
+RGEABZERIC_ZU ,EUR,ZU      
+HEDGE-CH    ,EUR,CH      
+HEDGE-GT    ,EUR,CH      
+8O-ABZEW      ,EUR,8O      
+RISK_5E_MYR ,MYR,5E      
+HEDGE-FY    ,EUR,TK      
+HEDGE-TV    ,EUR,TV      
+RISK_5E_FMEY,USD,5E      
+RISK_5E_STKY,USD,5E      
+RISK_5E_KRWY,USD,5E      
+RISK_IB_IABZR ,IABZR,IB      
+HEDGE-RB    ,EUR,RB      
+HEDGE-TK-F5 ,EUR,TK      
+DSRISK-MULTI,EUR,DS      
+SGYOT-TV     ,EUR,TV      
+R_TW_USD    ,USD,TW      
+HEDGE-HW    ,EUR,HW      
+RISK_HW_HKD ,HKD,HW      
+HEDGE-IB    ,EUR,IB      
+R_FRFIS_5B  ,EUR,5B      
+R_FRFIS_FK  ,EUR,AK      
+R_FRFIS_GL  ,EUR,GL      
+R_FRFIS_GU  ,EUR,GU      
+R_FRFIS_GW  ,EUR,GW      
+R_FRFIS_HJ  ,EUR,HJ      
+R_FRFIS_HS  ,EUR,HS      
+R_FRFIS_HW  ,EUR,HW      
+R_FRFIS_IB  ,EUR,IB      
+R_FRFIS_KE  ,EUR,KE      
+R_FRFIS_MV  ,EUR,MV      
+R_FRFIS_RB  ,EUR,RB      
+R_FRFIS_SABZ  ,EUR,SABZ      
+R_FRFIS_TS  ,EUR,TS      
+R_FRFIS_TW  ,EUR,TW      
+HEDGE-HI    ,EUR,HI      
+RGEABZERIC_HW ,EUR,HW      
+RGEABZERIC_TV ,EUR,TV      
+RISK_6K     ,HKD,RK      
+R_RETRO_HKD ,HKD,RK      
+HEDGE-TZ    ,EUR,TZ      
+RISK-4BCHF  ,CHF,4B      
+R_FRFIS_4B  ,EUR,4B      
+RISK_GL     ,USD,GL      
+TRFDIABZG_SQF ,EUR,SQ      
+SMI-ELEC    ,CHF,4B      
+CESS_HK_EXGY ,EUR,CH      
+CESS_STK_GG ,EUR,CH      
+EX_CES_CROSB,EUR,CH      
+DFX-ELEC-STR,EUR,4B      
+COST_ELI    ,USD,RK      
+COM_SGD_HJ  ,SGD,HJ      
+RETRO-KL    ,USD,RK      
+S7-CHFGYFIR  ,GBP,S7      
+FSHFABZTI     ,EUR,VG      
+8O-SGTOGYH3  ,EUR,8O      
+8O-JGYMFSTFRG,EUR,8O      
+6V_SGST_DL_X,EUR,6V      
+CESS_LB     ,EUR,TK      
+CESSIOABZ_GW_X,EUR,GW      
+FES-M5      ,USD,M5      
+FG-M5       ,USD,M5      
+FKS-M5      ,USD,M5      
+FM-M5       ,USD,M5      
+FMR-M5      ,USD,M5      
+FABZABZ-M5      ,USD,M5      
+FRM-M5      ,USD,M5      
+CCL-M5      ,USD,M5      
+CELL-M5     ,USD,M5      
+CEABZX-M5     ,USD,M5      
+CK-M5       ,USD,M5      
+CABZJ-M5      ,USD,M5      
+COM_USD_M5  ,USD,M5      
+CGYABZ-M5      ,USD,M5      
+HFS-M5      ,USD,M5      
+HOT-M5      ,USD,M5      
+ISGY-M5      ,USD,M5      
+JBL-M5      ,USD,M5      
+JCGY-M5      ,USD,M5      
+JABZY-M5      ,USD,M5      
+KM-M5       ,USD,M5      
+KME-M5      ,USD,M5      
+M5-17OCT05  ,USD,M5      
+M5-Y7JUABZ05  ,USD,M5      
