@@ -1,6 +1,6 @@
 # Scenario booking issue
 
-![Trading Floor](../img/NYSE-trading-floor.jpg)
+![Trading Floor](img/NYSE-trading-floor.jpg)
 ---
 
 At Société Générale, Sales are responsible for finding and interacting with clients to sell financial products. The range of products varies from investment (buying / selling stocks to bet on the market moves, buying Bonds to get long term fixed income gains...) to financing (raising money to fund a new project…). When a client is interested in a product, Sales negotiate the terms of the contact (Price, Quantity, Maturity Date…) and record it in dedicated systems, from where it feeds to multiple other systems, allow the Traders to view all positions held by SG and hedge them to reduce the risk…. Performance and stability of our Information Systems are very important as Sales must be able to book the deals in the systems right after the negotiation to ensure that the product price does not move in an unfavorable direction until the deal is fully recorded in our system. Any gap in deal value will be taken as a loss by Société Générale as we have to guarantee that the clients get what they negotiated for. SG is making profits by taking a 1% fee on the notional (Quantity x Negotiated Price) of each deal executed.
@@ -30,7 +30,7 @@ You are working as support analyst at Société Générale, in the team SG/TRD-S
 
 See below the information system architecture:
 
-![Architecture](../img/Alten2.drawio.png)
+![Architecture](img/Alten2.drawio.png)
 ---
 
 # Incident #1
@@ -42,7 +42,7 @@ It is 3PM. The Sales, in the SG/EQD New York Team, has negotiated a major deal w
 The Sales insists for this issue to be resolved as soon as possible because the price for this new Security is moving very fast on its first day. And the deadline to book the deal is 4PM, after which the Exchange will be closed. You start your investigation right away.
 
  Good luck with this first incident, please find below the link to access your information system and fix the issue:  
- [INCIDENT 1](../PROBLEM%20SOLVING/Booking%20Application%20System/1%20Incident)
+ [INCIDENT 1](Booking%20Application%20System/1%20Incident)
  
 # Incident #2
 
@@ -74,7 +74,7 @@ The problem is now solved and the Sales is very happy about your work as he mana
 
  
 
-You will find in the repository an example of [Post Mortem ](../PROBLEM%20SOLVING/Post%20Mortem%20Template/PM1.PNG). For the communication to Management and Business, this you will obviously have to summarize the incident in the body of the email as they are usually too busy to open and read the full document
+You will find in the repository an example of [Post Mortem ](Post%20Mortem%20Template/PM1.PNG). For the communication to Management and Business, this you will obviously have to summarize the incident in the body of the email as they are usually too busy to open and read the full document
 
  
 
