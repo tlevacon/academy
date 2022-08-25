@@ -38,4 +38,4 @@ COMPLECTATION_OPTIONS  MANUFACTURER           VEHICLE_PART_SUPPLIER
 FRAME                  MODEL
 ```
 
-For the purpose of the next exercices you can think of `complectations` as iteration of the same frame.
+For the purpose of the next exercices you can think of `complectations` as variations of the same frame.
