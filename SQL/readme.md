@@ -27,6 +27,7 @@ The above will execute the script `script.sql`
 
 We've created and initialized a Toyota vehicule parts database.  
 The schema of that database is the following and should be fairly self-explanatory.  
+
 ![Toyota DB](img/toyota_parts.drawio.png)
 
 One can see the tables in that database using the sqlite command `.table`
@@ -36,3 +37,5 @@ COMPLECTATION          GROUP_PARTS            PARTS
 COMPLECTATION_OPTIONS  MANUFACTURER           VEHICLE_PART_SUPPLIER
 FRAME                  MODEL
 ```
+
+For the purpose of the next exercices you can think of `complectations` as iteration of the same frame.
