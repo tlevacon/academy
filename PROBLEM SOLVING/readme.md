@@ -48,7 +48,7 @@ Good luck with this first incident, please find below the link to access your in
 
 Now that you have fixed the issue, the trader comes back to you saying he is still unable to book his deal as he is getting again the same error message.  
 
-Good luck with this second incident, please find below the link to access your information system and fix the issue:
+Good luck with this second incident, please find below the link to access your information system and fix the issue:  
 [INCIDENT 2](Booking%20Application%20System/INC2)
 
 
