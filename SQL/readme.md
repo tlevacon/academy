@@ -9,12 +9,12 @@ You can use the tools in this folder to open the database from a command line.
 
 On Windows, one can open the toyota database using this query
 ```cmd
-"Sqllite Tools\Windows\sqlite3.exe" toyota.db
+"Sqllite Tools\Windows\sqlite3.exe" toyota_no_parts.db
 ```
 On Linux and OS X, it should look like this
 ```sh
-.Sqllite\ Tools/Linux/sqlite3 toyota.db
-.Sqllite\ Tools/OS\ X/sqlite3 toyota.db
+.Sqllite\ Tools/Linux/sqlite3 toyota_no_parts.db
+.Sqllite\ Tools/OS\ X/sqlite3 toyota_no_parts.db
 ```
 
 ## Sqlite documentation
@@ -54,4 +54,4 @@ It contains the exhaustive set of models and complectations.
 
 ## Scenarios
 
-Candidate will face various scenarios involving the use and modification of an sqlite database using the command line.  
+Candidates will face various scenarios involving the use and modification of an sqlite database using the command line.  
