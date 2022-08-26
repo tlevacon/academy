@@ -15,7 +15,7 @@ Date,Hours,State,APIConnectionStatus,Message
 20220823,11:55:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:56:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:56:00,[INFO],Get ,Get /portfolioUpdates?from=2022-08-23T11:15:00Z 200 OK [WebApi.HttpsReferential]:4401
-20220823,11:57:00,[INFO],InsertionSuccess,Ins [PtfName=FSHT.IABZ  Country=USD id_centre=5E] in Local cache
+20220823,11:57:00,[INFO],InsertionSuccess,Ins [PtfName=FSHT.IABZ Country=USD id_centre=5E] in Local cache
 20220823,11:58:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,11:59:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,12:00:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
@@ -233,4 +233,4 @@ Date,Hours,State,APIConnectionStatus,Message
 20220823,15:29:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,15:30:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
 20220823,15:31:00,[INFO],UP,Get /health/ 200 OK [WebApi.HttpsReferential]:4401
-20220823,15:31:00,[ERROR],Failure,Can't find ABZ1-ILID4  in Local cache
+20220823,15:32:00,[ERROR],Failure,Can't find ABZ1-ILID4 in Local cache

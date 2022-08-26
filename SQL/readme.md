@@ -17,6 +17,8 @@ On Linux and OS X, it should look like this
 .Sqllite\ Tools/OS\ X/sqlite3 toyota_no_parts.db
 ```
 
+If for some reason you're unable to open sqlite database with the tools in this repository, please check [the sqlite website download page](https://www.sqlite.org/download.html) for the tools.
+
 ## Sqlite documentation
 
 The SQL syntax for interacting with the sqlite database is described [here on the official website](https://www.sqlite.org/lang.html).  
